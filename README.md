@@ -4,6 +4,6 @@
 
 # Übersicht
 
-  1) Einführendes Lehrmaterial zum Thema Regressionsanalyse mit Python
-  2) Übungen zur Regressionsanalyse mithilfe des Boston-Datensatzes aus der sklearn-Bibliothek
-  3) Musterlösungen zur Regressionsanalyse mithilfe des Boston-Datensatzes aus der sklearn-Bibliothek
+  - Einführendes Lehrmaterial zum Thema Regressionsanalyse mit Python
+  - Übungen zur Regressionsanalyse mithilfe des Boston-Datensatzes aus der sklearn-Bibliothek
+  - Musterlösungen zur Regressionsanalyse mithilfe des Boston-Datensatzes aus der sklearn-Bibliothek
